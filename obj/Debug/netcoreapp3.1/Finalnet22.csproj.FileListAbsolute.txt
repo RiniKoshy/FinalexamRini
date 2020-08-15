@@ -1,0 +1,13 @@
+C:\Users\jithi\source\repos\Finalnet22\bin\Debug\netcoreapp3.1\Finalnet22.exe
+C:\Users\jithi\source\repos\Finalnet22\bin\Debug\netcoreapp3.1\Finalnet22.deps.json
+C:\Users\jithi\source\repos\Finalnet22\bin\Debug\netcoreapp3.1\Finalnet22.runtimeconfig.json
+C:\Users\jithi\source\repos\Finalnet22\bin\Debug\netcoreapp3.1\Finalnet22.runtimeconfig.dev.json
+C:\Users\jithi\source\repos\Finalnet22\bin\Debug\netcoreapp3.1\Finalnet22.dll
+C:\Users\jithi\source\repos\Finalnet22\bin\Debug\netcoreapp3.1\Finalnet22.pdb
+C:\Users\jithi\source\repos\Finalnet22\obj\Debug\netcoreapp3.1\Finalnet22.csprojAssemblyReference.cache
+C:\Users\jithi\source\repos\Finalnet22\obj\Debug\netcoreapp3.1\Finalnet22.AssemblyInfoInputs.cache
+C:\Users\jithi\source\repos\Finalnet22\obj\Debug\netcoreapp3.1\Finalnet22.AssemblyInfo.cs
+C:\Users\jithi\source\repos\Finalnet22\obj\Debug\netcoreapp3.1\Finalnet22.csproj.CoreCompileInputs.cache
+C:\Users\jithi\source\repos\Finalnet22\obj\Debug\netcoreapp3.1\Finalnet22.dll
+C:\Users\jithi\source\repos\Finalnet22\obj\Debug\netcoreapp3.1\Finalnet22.pdb
+C:\Users\jithi\source\repos\Finalnet22\obj\Debug\netcoreapp3.1\Finalnet22.genruntimeconfig.cache
